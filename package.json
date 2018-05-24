@@ -1,6 +1,6 @@
 {
   "name": "es6-event-delegator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Delegate events to minimize native event listeners.",
   "main": "index.js",
   "scripts": {
