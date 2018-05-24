@@ -1,0 +1,19 @@
+{
+  "name": "es6-event-delegator",
+  "version": "1.0.0",
+  "description": "Delegate events to minimize native event listeners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gryphonmyers/es6-event-delegator.git"
+  },
+  "author": "Gryphon Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gryphonmyers/es6-event-delegator/issues"
+  },
+  "homepage": "https://github.com/gryphonmyers/es6-event-delegator#readme"
+}
