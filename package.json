@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gryphonmyers/es6-event-delegator/issues"
   },
-  "homepage": "https://github.com/gryphonmyers/es6-event-delegator#readme"
+  "homepage": "https://github.com/gryphonmyers/es6-event-delegator#readme",
+  "dependencies": {
+    "find-parent": "^2.0.2"
+  }
 }
