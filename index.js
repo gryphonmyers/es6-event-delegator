@@ -1,3 +1,5 @@
+const findParent = require('find-parent');
+
 module.exports = class EventDelegator {
     constructor(target, evtName) {
         Object.defineProperties(this, {
